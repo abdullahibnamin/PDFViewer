@@ -12,3 +12,4 @@ pip install PyPDF2
 
 # Images
 <img src='screen_shots/main.JPG'>
+<img src='screen_shots/showPDF.JPG'>
