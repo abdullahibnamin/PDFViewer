@@ -16,3 +16,5 @@ pip install PyPDF2
 
 <p>Merge PDF</p>
 <img src='screen_shots/pdf_merge.JPG'>
+<p>PDF MetaData</p>
+<img src='screen_shots/pdf_metadata.JPG'>
