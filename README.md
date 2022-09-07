@@ -8,4 +8,4 @@ pip install PyPDF2
 </pre>
 
 # Exe File
-<a href="https://github.com/abdullahibnamin/PDFViewer/releases/download/v0.1.0/main.exe">download</a>
+<a href="https://github.com/abdullahibnamin/PDFViewer/releases/download/v0.1.0/main.exe">Download</a>
