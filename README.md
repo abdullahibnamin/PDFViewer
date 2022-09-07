@@ -9,3 +9,5 @@ pip install PyPDF2
 
 # Exe File
 <a href="https://github.com/abdullahibnamin/PDFViewer/releases/download/v0.1.0/main.exe">Download</a>
+
+# Images
