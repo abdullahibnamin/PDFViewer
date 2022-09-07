@@ -13,3 +13,6 @@ pip install PyPDF2
 # Images
 <img src='screen_shots/main.JPG'>
 <img src='screen_shots/showPDF.JPG'>
+
+<p>Merge PDF</p>
+<img src='screen_shots/pdf_merge.JPG'>
